@@ -1,0 +1,15 @@
+### https://www.netlify.com/docs/netlify-toml-reference/
+[build]
+base = ""
+publish = "public-old"
+command = ""
+functions = "functions"
+
+# [build.environment]
+# GUTENBERG_VERSION = "0.3.3"
+
+# [context.deploy-preview]
+# command = "make netlify NETLIFY_DEPLOY_URL=$DEPLOY_PRIME_URL"
+
+# [context.branch-deploy]
+# command = "make netlify NETLIFY_DEPLOY_URL=$DEPLOY_PRIME_URL"

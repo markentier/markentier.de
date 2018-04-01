@@ -1,0 +1,16 @@
+/* WHO */
+
+Christoph Grabo
+
+https://twitter.com/asaaki
+https://github.com/asaaki
+Berlin, Germany
+
+
+/* SITE */
+
+Last update: 2017-04-01
+Standards: HTML5, CSS3
+Components: Love and Handcraft
+Software: VSCode
+Services: GitHub, Netlify
